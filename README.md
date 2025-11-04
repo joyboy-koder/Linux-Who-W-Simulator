@@ -1,6 +1,6 @@
 # Who & W Simulator
 
-**Author:** Kelvin Dasah (GitHub: [joyboykoder](https://github.com/joyboykoder))  
+**Author:** Kelvin Dasah (GitHub: [joyboykoder](https://github.com/joyboy-koder))  
 **Project Type:** Linux Learning Simulator | Web-based Terminal  
 
 ---
